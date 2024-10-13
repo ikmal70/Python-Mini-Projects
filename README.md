@@ -1,0 +1,1 @@
+This repo contains mini projects that were developed using Python
